@@ -9,7 +9,7 @@
         "telegram chat bot"
     ],
     "website": "https://t.me/Anime_Kun_Channel",
-    "repository": "https://github.com/Itz-fork/Yui",
+    "repository": "https://github.com/Siam19395/Yui",
     "success_url": "https://t.me/Anime_Kun_Channel",
     "env": {
         "APP_ID": {
